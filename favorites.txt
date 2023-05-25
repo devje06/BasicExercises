@@ -3,8 +3,5 @@ Corn
 Macaroni
 French Fries
 Avengers
-<<<<<<< HEAD
 Twilight
-=======
 Hello World
->>>>>>> 03da92d4379c1651241fcdd6a6510c78af4035e6
